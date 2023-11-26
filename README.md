@@ -110,6 +110,10 @@ Because all the program works on a seperated thread -hence we can work on the da
 Begin by importing the LibArbitrage module:
 ```python
 >>> import libarbitrage
+import requests
+import prettytable
+import setuptools
+
 ```
 
 Set variables to pass as arguments:
